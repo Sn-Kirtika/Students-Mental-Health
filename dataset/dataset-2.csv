@@ -1,4 +1,4 @@
-Student ID;Age;Gender;Academic Performance (GPA);Study Hours Per Week;Social Media Usage (Hours per day);Sleep Duration (Hours per night);Physical Exercise (Hours per week);Family Support  ;Financial Stress;Peer Pressure;Relationship Stress;Mental Stress Level;Counseling Attendance;Diet Quality;Stress Coping Mechanisms;Cognitive Distortions;Family Mental Health History;Medical Condition;Substance Use
+Student ID;Age;Gender;Academic Performance (GPA);Study Hours Per Week;Social Media Usage (Hours per day);Sleep Duration (Hours per night);Physical Exercise (Hours per week);Family Support;Financial Stress;Peer Pressure;Relationship Stress;Mental Stress Level;Counseling Attendance;Diet Quality;Stress Coping Mechanisms;Cognitive Distortions;Family Mental Health History;Medical Condition;Substance Use
 1;21;Female;3;1;7;6;2;4;2;2;2;7;No;3;Exercise;5;No;No;5
 2;22;Male;2;35;5;6;10;5;2;2;3;5;No;3;Exercise;2;No;No;1
 3;30;Male;3;10;3;5;2;3;2;2;1;2;No;3;Exercise;2;No;No;2
